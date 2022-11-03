@@ -1,0 +1,52 @@
+body{
+    padding: 100px;
+    /* background-color:tomato; */
+}
+
+#login-area{
+    /* background-color: aqua; */
+}
+
+#login-area h1{
+    font-weight: 600;
+}
+
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;    
+    /* position: absolute; */
+}
+
+#transaction-area{
+    opacity: 0;
+    /* text-align: center; */
+}
+
+#transaction-area h1,h2{
+    font-weight: 600;
+}
+
+.col-md-4{
+    /* background-color: aqua; */
+}
+
+.status{
+    padding: 20px;
+    margin: 0 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.deposit{
+    background-color: slateblue;   
+}
+
+.withdraw{
+    background-color: lightsalmon;
+}
+
+.balance{
+    background-color: orange;
+}
